@@ -7,3 +7,4 @@
 - [Java](./Java/)  
   - [Streams](./Java/Streams/)  
     - [Problem1](./Java/Streams/Problem1/)
+    - [Problem2](./Java/Streams/Problem2/)
